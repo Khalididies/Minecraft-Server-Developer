@@ -1,4 +1,4 @@
-# 📄 **README — Alphabet Snowball Minigame (Spigot Plugin)**
+# 📄 **README — Alphabet Snowball Minigame**
 
 ## 🎮 **Overview**
 
