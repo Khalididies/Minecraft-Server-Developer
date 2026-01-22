@@ -173,22 +173,6 @@ commands:
     description: Starts the alphabet snowball minigame
 ```
 
----
-
-## 🛠 **Future Improvements**
-
-✔ Config file for settings  
-✔ Spectator mode  
-✔ Word spelling mode  
-✔ Team vs Team  
-✔ Larger 3D letters  
-✔ Countdown start  
-✔ Arena regions  
-✔ Lobby  
-✔ Mongo/SQL stats  
-
----
-
 ## 📜 **License**
 
 Free for personal projects & servers.
